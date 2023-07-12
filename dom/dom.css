@@ -1,0 +1,9 @@
+.btn {
+    background-color: aquamarine;
+    border: none;
+    padding: 20px;
+}
+
+.btn:hover {
+    background-color: aqua;
+}
